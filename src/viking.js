@@ -167,6 +167,8 @@ class War {
     return damageResult; // Devuelve el resultado del ataque
   }
 
+  
+//Iteración 5
   // Método para mostrar el estado de la guerra
   showStatus() {
     if (this.saxonArmy.length === 0) {
